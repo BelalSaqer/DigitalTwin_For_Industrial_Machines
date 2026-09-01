@@ -1,3 +1,14 @@
+> **Fork Note:** This is a fork of the original team graduation project 
+> (team of 5). My role was Flutter mobile development and system 
+> integration — specifically building the dashboard's state management 
+> layer (`AppState`), MQTT telemetry ingestion (`state_telemetry.dart`), 
+> Firebase integration, and role-based access control, connecting the 
+> AI/MQTT backend to the live mobile/web UI. The AI pipeline, Webots 
+> simulation, and backend infrastructure were built by teammates. The 
+> project was documented in a co-authored academic research paper.
+
+---
+
 # Predictive Digital Twin for Industrial Machines
 
 **Industrial IoT and Applied Artificial Intelligence**
