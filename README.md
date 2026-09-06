@@ -5,7 +5,8 @@
 > Firebase integration, and role-based access control, connecting the 
 > AI/MQTT backend to the live mobile/web UI. The AI pipeline, Webots 
 > simulation, and backend infrastructure were built by teammates. The 
-> project was documented in a co-authored academic research paper.
+> project was documented in a co-authored academic research paper, 
+> published on Zenodo: https://doi.org/10.5281/zenodo.22540660
 
 ---
 
