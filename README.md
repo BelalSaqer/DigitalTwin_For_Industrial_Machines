@@ -8,11 +8,7 @@
 > project was documented in a co-authored academic research paper, 
 > published on Zenodo: https://doi.org/10.5281/zenodo.22540660
 >
-> 📸 **[View Project Showcase →](https://digital-twin-showcase-belals.web.app)** 
-> — screenshots and a walkthrough of the app's key screens (the system 
-> depends on a local sensor simulation and AI pipeline, so this is a 
-> visual walkthrough rather than a live public demo).
-
+> [Project Showcase](https://digital-twin-showcase-belals.web.app/) — screenshots (not a live demo)
 ---
 
 # Predictive Digital Twin for Industrial Machines
